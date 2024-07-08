@@ -1,7 +1,8 @@
-TASK DAY 6
-Today's task involves using array functions to get data from the API called rest countries
+  TASK DAY 6
+  
+  Today's task involves using array functions to get data from the API called rest countries
 
-functions to solve:
+  functions to solve:
 
   ->get countries in asia region.
   ->get countries with population < 2 lakhs.
